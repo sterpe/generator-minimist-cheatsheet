@@ -1,0 +1,23 @@
+{
+  "name": "minimist-cheatsheet",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sterpe/minimist-cheatsheet.git"
+  },
+  "author": "Steven Terpe <srterpe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterpe/minimist-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/sterpe/minimist-cheatsheet"
+}
