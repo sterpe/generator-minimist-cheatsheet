@@ -25,3 +25,11 @@ existing file.  You will need to manually add the "bin" property to the package.
   }
 }
 ```
+
+### Test
+```bash
+npm test
+```
+
+### Contributing
+In lieu of a formal styleguide, an attempt should be made to maintain the existing style.
