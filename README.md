@@ -1,6 +1,6 @@
 # generator-minimist-cheatsheet
 
-Adds the [`minimist-cheatsheet`](http://ricostacruz.com/cheatsheets/minimist.html) to a project for easy bin'ng.
+Adds the [`minimist-cheatsheet`](http://ricostacruz.com/cheatsheets/minimist.html) to a project for easy `bin`'ng.
 
 ### Install
 ```bash
