@@ -1,10 +1,13 @@
 {
-  "name": "minimist-cheatsheet",
+  "name": "generator-minimist-cheatsheet",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
   "dependencies": {
-    "minimist": "^1.1.1"
+    "yeoman-generator": "^0.20.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -12,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sterpe/minimist-cheatsheet.git"
+    "url": "https://github.com/sterpe/generator-minimist-cheatsheet.git"
   },
   "author": "Steven Terpe <srterpe@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sterpe/minimist-cheatsheet/issues"
+    "url": "https://github.com/sterpe/generator-minimist-cheatsheet/issues"
   },
-  "homepage": "https://github.com/sterpe/minimist-cheatsheet"
+  "homepage": "https://github.com/sterpe/generator-minimist-cheatsheet"
 }

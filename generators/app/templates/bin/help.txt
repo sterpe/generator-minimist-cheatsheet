@@ -1,5 +1,5 @@
 Usage:
-    $0 FILES [options]
+    $0 ARGS [options]
 
 Options:
     -h, --help         print usage information
